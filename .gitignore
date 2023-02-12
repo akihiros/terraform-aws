@@ -1,0 +1,4 @@
+# Terraform管理系ファイル・ディレクトリを除外
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate.d/
